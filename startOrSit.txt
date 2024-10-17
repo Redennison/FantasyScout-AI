@@ -1,0 +1,24 @@
+Should I start or sit a player?
+
+Data url:
+https://fantasy.espn.com/football/players/projections?leagueFormatId=1
+
+E.g. Prompt:
+I have 2 quarterbacks. Jayden Daniels and Lamar Jackson. Who should I start?
+
+E.g. Response:
+Based on the information provided, Lamar Jackson is the stronger choice for Week 5. Here's why, based on sentiment and context:
+
+Lamar Jackson's Consistency & Elite Status: Jackson consistently delivers both passing and rushing yards, which makes him a high-floor, high-ceiling option. With at least 45 rushing yards per game and a multi-touchdown performance in Week 4, his ability to produce points through both passing and rushing is highly valuable. The matchup against the Bengals suggests a potential for high scoring, favoring Jackson's play style.
+
+Jayden Daniels' Solid Performance but Tough Matchup: While Jayden Daniels has shown accuracy and dual-threat capabilities, his Week 5 matchup against the Browns could be challenging. Cleveland’s defense is solid and allows only 299 scrimmage yards per game, indicating a tougher environment for Daniels to produce big numbers.
+
+Sentiment Points to Jackson's Upside: The language describing Jackson is more enthusiastic about his "elite" potential and strong likelihood of contributing significantly to a high-scoring game. While Daniels has shown promise, the Browns’ defense might limit his upside.
+
+In conclusion, start Lamar Jackson for his elite consistency, favorable matchup, and the positive outlook for Week 5.
+
+Questions:
+- Vectorstore with all embeddings from player descriptions
+- Determine whether vectors closer to positive or negative embeddings 
+
+
