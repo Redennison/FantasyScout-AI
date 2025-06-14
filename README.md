@@ -1,4 +1,4 @@
-# NFL Player Comparison Generator
+# FantasyScout AI
 
 ## Overview
 
