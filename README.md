@@ -1,4 +1,4 @@
-# FantasyScout AI
+# FantasyScoutAI
 
 ## Overview
 
